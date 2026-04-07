@@ -1,3 +1,5 @@
+📥 **[Download Postman Collection (test_postman.json)](./test_postman.json)**
+
 ## Fitur & Hasil API (Screen Capture)
 
 Berikut merupakan detail dari fitur yang berjalan di sistem dan dokumentasi hasil uji API dari Postman sesuai instruksi pengerjaan:
